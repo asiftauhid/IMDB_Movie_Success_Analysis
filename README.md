@@ -176,3 +176,5 @@ imdb-movie-analysis/
     ├── title.crew.tsv.gz
     ├── title.principals.tsv.gz
     └── movies_ratings_dirs_actors.csv
+
+NOTE: If the file is not opening in GitHub (since the .ipynb file is huge), please consider downloading it and opening it locally.
