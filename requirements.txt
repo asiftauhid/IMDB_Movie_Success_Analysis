@@ -1,0 +1,24 @@
+# IMDb Movie Analysis - Python Dependencies
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Statistical Analysis
+scipy>=1.9.0
+statsmodels>=0.14.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Jupyter Notebook (for running the analysis)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Optional but recommended
+ipykernel>=6.16.0  # For Jupyter kernel management
+
